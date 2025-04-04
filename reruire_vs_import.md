@@ -49,7 +49,7 @@ No extra config needed.
 
 Still widely used in most Node.js backends.
 
-🧪 2. import — ES Modules (Modern way)
+## 🧪 2. import — ES Modules (Modern way)
 
 `// utils.js`
 export function greet(name) {
