@@ -1,0 +1,22 @@
+{
+  "name": "figlet",
+  "version": "1.0.0",
+  "description": "Practice of how do use Npm commands .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav-2611/NodeJs.git"
+  },
+  "author": "Abhinav Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinav-2611/NodeJs/issues"
+  },
+  "homepage": "https://github.com/abhinav-2611/NodeJs#readme",
+  "dependencies": {
+    "figlet": "^1.8.0"
+  }
+}
